@@ -18,3 +18,8 @@
 .item7 {
     grid-column: 1 / -1;
 }
+
+img.item1 {
+    border: 5px green solid;
+    padding: 10px;
+}
